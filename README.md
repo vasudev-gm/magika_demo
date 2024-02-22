@@ -10,6 +10,11 @@ Utilizes upload api in swagger to return detected File Type. Supports Python 3.8
 > You can create an isolated virtual environment using Python 3.11 and install packages using pip
 or pipenv.\
 [Python API Usage](https://pypi.org/project/magika/)
+
+## How To Run the project
+> cd example\
+> python manage.py runserver\
+***You can Ignore migration not applied warnings after running runserver***
 ---
 ## Acknowledgement
 @software{magika,
