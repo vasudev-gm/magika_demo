@@ -1,3 +1,4 @@
+[![Dependabot Updates](https://github.com/vasudev-gm/magika_demo/actions/workflows/dependabot/dependabot-updates/badge.svg?branch=master)](https://github.com/vasudev-gm/magika_demo/actions/workflows/dependabot/dependabot-updates)
 # Magika Demo using minimal Django Ninja APIs
 > **Magika** is Google's ML based File type Detection model in near constant inference time regardless of file sizes.
 Utilizes upload api in swagger to return detected File Type. Supports Python 3.8 to 3.11. Works on Linux, Windows and Mac.\
