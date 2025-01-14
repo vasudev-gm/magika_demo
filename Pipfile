@@ -9,6 +9,7 @@ django-ninja = "*"
 magika = "*"
 python-dotenv = "*"
 granian = "*"
+numpy = "*"
 
 [dev-packages]
 
