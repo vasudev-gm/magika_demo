@@ -16,7 +16,7 @@ onnxruntime==1.20.1
 packaging==24.2; python_version >= '3.8'
 protobuf==5.29.3; python_version >= '3.8'
 pydantic==2.10.6; python_version >= '3.8'
-pydantic-core==2.27.2; python_version >= '3.8'
+pydantic-core==2.29.0; python_version >= '3.8'
 pyreadline3==3.5.4; python_version >= '3.8'
 python-dotenv==1.0.1; python_version >= '3.8'
 sqlparse==0.5.3; python_version >= '3.8'
