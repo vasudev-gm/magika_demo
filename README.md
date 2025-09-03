@@ -3,7 +3,7 @@
 # Magika Demo using minimal Django Ninja APIs
 >
 > **Magika** is Google's ML based File type Detection model in near constant inference time regardless of file sizes.
-Utilizes upload api in swagger to return detected File Type. Supports Python 3.8 to 3.11. Works on Linux, Windows and Mac.\
+Utilizes upload api in swagger to return detected File Type. Supports Python 3.9+. Works on Linux, Windows and Mac.\
 [Magika File Type Checker by Google](https://github.com/google/magika)
 ---
 
