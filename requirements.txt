@@ -41,9 +41,9 @@ django-ninja==1.4.3 \
     --hash=sha256:e46d477ca60c228d2a5eb3cc912094928ea830d364501f966661eeada67cb038 \
     --hash=sha256:f3204137a059437b95677049474220611f1cf9efedba9213556474b75168fa01
     # via example
-flatbuffers==25.2.10 \
-    --hash=sha256:97e451377a41262f8d9bd4295cc836133415cc03d8cb966410a4af92eb00d26e \
-    --hash=sha256:ebba5f4d5ea615af3f7fd70fc310636fbb2bbd1f566ac0a23d98dd412de50051
+flatbuffers==25.9.23 \
+    --hash=sha256:255538574d6cb6d0a79a17ec8bc0d30985913b87513a01cce8bcdb6b4c44d0e2 \
+    --hash=sha256:676f9fa62750bb50cf531b42a0a2a118ad8f7f797a511eda12881c016f093b12
     # via
     #   example
     #   onnxruntime
