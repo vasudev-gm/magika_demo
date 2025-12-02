@@ -1,7 +1,9 @@
+# Magika Demo using minimal Django Ninja APIs
+
+## Badges
+
 [![Dependabot Updates](https://github.com/vasudev-gm/magika_demo/actions/workflows/dependabot/dependabot-updates/badge.svg?branch=master)](https://github.com/vasudev-gm/magika_demo/actions/workflows/dependabot/dependabot-updates)
 
-# Magika Demo using minimal Django Ninja APIs
->
 > **Magika** is Google's ML based File type Detection model in near constant inference time regardless of file sizes.
 Utilizes upload api in swagger to return detected File Type. Supports Python 3.9+. Works on Linux, Windows and Mac.\
 [Magika File Type Checker by Google](https://github.com/google/magika)
@@ -28,23 +30,24 @@ or pipenv.\
 
 Deployed using Granian Server instead of Gunicorn
 
-# Docker Compose Commands
+## Docker Compose Commands
 
-### Get running containers:
+Get running containers
 
-**docker ps**
+`docker ps`
 
-### Build and Run in detached mode:
+Build and Run in detached mode
 
-**docker compose up --build -d**
+`docker compose up --build -d`
 
-### To enter Bash Shell for migrating db changes or static files
+To enter Bash Shell for migrating db changes or static files
 
-**docker exec -it <container id from docker ps> bash**
+`docker exec -it <container id from docker ps> bash`
 
-### To view logs of container. You can pass head to view first N lines or tail to view last N lines specified by argument after head/tail
+To view logs of container. You can pass head to view first N lines or tail to view last N lines specified by argument after head/tail
 
-**docker logs --tail 1000 -f <container id from docker ps>**
+`docker logs --tail 1000 -f <container id from docker ps>`
+
 ---
 
 ## Acknowledgement
@@ -52,5 +55,5 @@ Deployed using Granian Server instead of Gunicorn
 @software{magika,
 author = {Fratantonio, Yanick and Bursztein, Elie and Invernizzi, Luca and Zhang, Marina and Metitieri, Giancarlo and Kurt, Thomas and Galilee, Francois and Petit-Bianco, Alexandre and Farah, Loua and Albertini, Ange},
 title = {{Magika content-type scanner}},
-url = {https://github.com/google/magika}
+url = {<https://github.com/google/magika>}
 }
