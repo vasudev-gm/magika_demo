@@ -103,12 +103,12 @@ humanfriendly==10.0 \
     # via
     #   coloredlogs
     #   example
-magika==1.0.2 \
-    --hash=sha256:1db8e2d57556e7244f5fce9cfd023aa0da05d204ea7313f3c75b32feab2bcd6d \
-    --hash=sha256:4937e876d55642423d6416e5db4e5ca7523ab7f855cbc5389efdeac1d149df04 \
-    --hash=sha256:8ed912d8f14d044f43fdbd17d6bd2cbdd6e8b8246e89be49f6cd547053636677 \
-    --hash=sha256:c50be7a6a7132ef1a92956694401aaf911bda8fc5e2a591092e0dac5b5865a8a \
-    --hash=sha256:df4706c18153431548b1d36c8ca11c8a8a415197dcc741281846c61ebfc94a5b
+magika==1.0.3 \
+    --hash=sha256:3e9b49134e8116ee40b431664dcbed9e199413efddcce1a173c734b4e0521529 \
+    --hash=sha256:8a817588c177e81efadf2efa3690bfd46000279fd32e5bfc814776b007ee5d89 \
+    --hash=sha256:938d8e033953f2ddeb8c35dc423aa289ca116bfa7a71a778f6e77460f9025803 \
+    --hash=sha256:ad3216012f6dd337be34c23ae3dfab36f0623bc62fbfb329f9a1852c9ad40304 \
+    --hash=sha256:de9af9c96892e610eefc920cca9e71179661d39d9d1d7acc1f28f357bcc8805e
     # via example
 mpmath==1.3.0 \
     --hash=sha256:7a28eb2a9774d00c7bc92411c19a89209d5da7c4c9a9e227be8330a23a25b91f \
