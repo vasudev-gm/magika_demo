@@ -33,9 +33,9 @@ django==6.1.2 \
     # via
     #   django-ninja
     #   example
-django-ninja==1.7.1 \
-    --hash=sha256:2183ee5426a8c95bfabae1b7f60c471a56c48022296eaaf1cc54b00010b07ee6 \
-    --hash=sha256:61137e9fbb97ca15a92cdbfdcf9f6a738464b328c6cb11090faf17042035ec69
+django-ninja==1.7.3 \
+    --hash=sha256:5e3c2dcead83a2512ea772dbc435ca51632cf46bf3be1523bac41e5bb394891c \
+    --hash=sha256:8a73ecccaa86639202427e81667b8fca6dfc250d2b6e5108369688029a4cb593
     # via example
 flatbuffers==25.12.19 \
     --hash=sha256:7634f50c427838bb021c2d66a3d1168e9d199b0607e6329399f04846d42e20b4
